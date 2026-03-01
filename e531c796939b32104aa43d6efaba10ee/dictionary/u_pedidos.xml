@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dabf6352931372104aa43d6efaba1067" extends="task" label="Pedidos" max_length="40" name="u_pedidos" type="collection">
+        <element display="true" label="Produto" mandatory="true" max_length="32" name="u_prouto" reference="u_u_produto" type="reference"/>
+        <element label="Data de entrega" max_length="40" name="u_data_de_entrega" type="glide_date"/>
+        <element label="Nome de cliente" max_length="40" name="u_nome_de_cliente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element label="Desconto" max_length="40" name="u_desconto" type="boolean"/>
+    </element>
+</database>

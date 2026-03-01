@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-28 20:28:40</sys_created_on>
+        <sys_id>f724071e939b32104aa43d6efaba1031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_u_categoria.toy_admin</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_security_acl display_value="u_u_categoria">7724071e939b32104aa43d6efaba102c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f724071e939b32104aa43d6efaba1031</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-28 20:28:40</sys_updated_on>
+        <sys_user_role display_value="toy_admin" name="toy_admin">3f24c31e939b32104aa43d6efaba10a6</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>sys_security_acl_role_f724071e939b32104aa43d6efaba1031</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-02-28 20:28:40</sys_created_on><sys_id>f724071e939b32104aa43d6efaba1031</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_u_categoria.toy_admin</sys_name><sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package><sys_policy/><sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope><sys_security_acl display_value="u_u_categoria">7724071e939b32104aa43d6efaba102c</sys_security_acl><sys_update_name>sys_security_acl_role_f724071e939b32104aa43d6efaba1031</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-02-28 20:28:40</sys_updated_on><sys_user_role display_value="toy_admin" name="toy_admin">3f24c31e939b32104aa43d6efaba10a6</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>580692419</payload_hash>
+        <record_name>u_u_categoria.toy_admin</record_name>
+        <reverted_from/>
+        <source>254308eb931632104aa43d6efaba1057</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-28 20:28:40</sys_created_on>
+        <sys_id>7b24071e939b32104aa43d6efaba1036</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19ca5f064230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-28 20:28:40</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7724071e0d9b32106a55586434694235</update_guid>
+        <update_guid_history>7724071e0d9b32106a55586434694235:580692419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="u_u_categoria.toy_admin">9c6c431e93db32104aa43d6efaba106e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-28 21:04:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>47fcb64643fb4520bf97051ef00e0440</sys_id>
+        <sys_metadata>f724071e939b32104aa43d6efaba1031</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_u_categoria.toy_admin</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_scope_delete display_value="">7074588dcd01450cbdd61910f6013671</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f724071e939b32104aa43d6efaba1031</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f724071e939b32104aa43d6efaba1031">7b24071e939b32104aa43d6efaba1036</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-28 21:04:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

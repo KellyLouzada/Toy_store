@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="u_pedidos">u_pedidos</category>
+        <maximum_digits>5</maximum_digits>
+        <number>1000</number>
+        <prefix>PED</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-28 23:38:54</sys_created_on>
+        <sys_id>d6bf6352931372104aa43d6efaba10e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PED</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>sys_number_d6bf6352931372104aa43d6efaba10e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-28 23:38:54</sys_updated_on>
+    </sys_number>
+</record_update>

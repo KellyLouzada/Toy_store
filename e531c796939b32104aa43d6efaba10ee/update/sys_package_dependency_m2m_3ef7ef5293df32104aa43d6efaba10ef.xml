@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">816f739f931232104aa43d6efaba10ba</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-28 23:05:04</sys_created_on>
+        <sys_id>3ef7ef5293df32104aa43d6efaba10ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-28 23:05:04</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

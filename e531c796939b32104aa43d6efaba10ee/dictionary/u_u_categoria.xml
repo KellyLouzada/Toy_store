@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="be24431e939b32104aa43d6efaba10d9" label="Categoria" max_length="40" name="u_u_categoria" type="collection">
+        <element label="Ativo" max_length="40" name="u_ativo" type="boolean"/>
+        <element display="true" label="Categoria" mandatory="true" max_length="40" name="u_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+    </element>
+</database>
