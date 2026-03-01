@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_nome_de_cliente" label="Nome de cliente" language="en" table="u_pedidos">
+    <sys_documentation element="u_nome_de_cliente" label="Nome do cliente" language="en" table="u_pedidos">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_nome_de_cliente</element>
             <help/>
             <hint/>
-            <label>Nome de cliente</label>
+            <label>Nome do cliente</label>
             <language>en</language>
             <name>u_pedidos</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-02-28 23:44:26</sys_created_on>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>Nome de cliente</sys_name>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>Nome do cliente</sys_name>
             <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
             <sys_policy/>
             <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
             <sys_update_name>sys_documentation_u_pedidos_u_nome_de_cliente_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-02-28 23:44:27</sys_updated_on>
+            <sys_updated_on>2026-03-01 04:03:37</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
