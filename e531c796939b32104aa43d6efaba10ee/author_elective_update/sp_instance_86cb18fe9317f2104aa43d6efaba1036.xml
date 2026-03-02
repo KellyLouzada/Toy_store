@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">db8b54fe9317f2104aa43d6efaba1027</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-01 21:29:52</sys_created_on>
+        <sys_id>86cb18fe9317f2104aa43d6efaba1036</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>A Loja preferida</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>sp_instance_86cb18fe9317f2104aa43d6efaba1036</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-01 21:32:01</sys_updated_on>
+        <title>A Loja preferida</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p><strong>A loja de brinquedos favorita das crian&ccedil;as</strong></p>",
+		"displayValue": "<p><strong>A loja de brinquedos favorita das crian&ccedil;as</strong></p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=86cb18fe9317f2104aa43d6efaba1036"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>sp_instance_86cb18fe9317f2104aa43d6efaba1036</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;db8b54fe9317f2104aa43d6efaba1027&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-03-01 21:29:52&lt;/sys_created_on&gt;&lt;sys_id&gt;86cb18fe9317f2104aa43d6efaba1036&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;A Loja preferida&lt;/sys_name&gt;&lt;sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee"&gt;e531c796939b32104aa43d6efaba10ee&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Toy Store"&gt;e531c796939b32104aa43d6efaba10ee&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_86cb18fe9317f2104aa43d6efaba1036&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-03-01 21:32:01&lt;/sys_updated_on&gt;&lt;title&gt;A Loja preferida&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;p&gt;&lt;strong&gt;A loja de brinquedos favorita das crian&amp;ccedil;as&lt;/strong&gt;&lt;/p&gt;",
+		"displayValue": "&lt;p&gt;&lt;strong&gt;A loja de brinquedos favorita das crian&amp;ccedil;as&lt;/strong&gt;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=86cb18fe9317f2104aa43d6efaba1036"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>2092500568</payload_hash>
+        <record_name>A Loja preferida</record_name>
+        <reverted_from/>
+        <source>c0db6ce293d772104aa43d6efaba1089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-01 21:32:01</sys_created_on>
+        <sys_id>e54c5c329357f2104aa43d6efaba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cab50be180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-01 21:32:01</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>654c5c328c57f210bac0a05e043b135d</update_guid>
+        <update_guid_history>654c5c328c57f210bac0a05e043b135d:2092500568,86eb1032cc57f210b3b0b7e520558c65:1544370738,8ecb18fed517f21001637660645f3739:951310071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="A Loja preferida">c55cdc329357f2104aa43d6efaba1073</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-01 21:32:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>47e615811d6b4ce09522eec20180a941</sys_id>
+        <sys_metadata>86cb18fe9317f2104aa43d6efaba1036</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>A Loja preferida</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_scope_delete display_value="">7074588dcd01450cbdd61910f6013671</sys_scope_delete>
+        <sys_update_name>sp_instance_86cb18fe9317f2104aa43d6efaba1036</sys_update_name>
+        <sys_update_version display_value="sp_instance_86cb18fe9317f2104aa43d6efaba1036">e54c5c329357f2104aa43d6efaba105e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-01 21:32:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
