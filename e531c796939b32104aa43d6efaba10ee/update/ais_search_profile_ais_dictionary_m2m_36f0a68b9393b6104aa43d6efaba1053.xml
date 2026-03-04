@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="toy_store_search_profile_default_spell_check_dictionary">7ef0a68b9393b6104aa43d6efaba104c</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="toy-store Search Profile">e0f0228b2d93b6105ea8b85c7f35255d</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-03 01:50:18</sys_created_on>
+        <sys_id>36f0a68b9393b6104aa43d6efaba1053</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>toy_store_search_profile_default_spell_check_dictionary.toy-store Search Profile</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_36f0a68b9393b6104aa43d6efaba1053</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-03 01:50:18</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

@@ -2,18 +2,18 @@
     <sys_ui_list parent="" relationship="" sys_domain="global" table="u_u_produto" version="2" view="sys_ref_list">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_number</element>
-            <list_id display_value="u_u_produto" element="NULL" name="u_u_produto" parent="NULL" relationship="NULL" sys_domain="global" view="a97eb353931232104aa43d6efaba1096">2ea500aa939372104aa43d6efaba1072</list_id>
+            <element>u_nome</element>
+            <list_id display_value="u_u_produto" element="NULL" name="u_u_produto" parent="NULL" relationship="NULL" sys_domain="global" view="a97eb353931232104aa43d6efaba1096">88b13313939b3a104aa43d6efaba1042</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 01:14:45</sys_created_on>
-            <sys_id>2ea500aa939372104aa43d6efaba1073</sys_id>
+            <sys_created_on>2026-03-04 02:21:24</sys_created_on>
+            <sys_id>48b13313939b3a104aa43d6efaba1043</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 01:14:45</sys_updated_on>
+            <sys_updated_on>2026-03-04 02:21:24</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -27,10 +27,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 01:14:45</sys_created_on>
+            <sys_created_on>2026-03-04 02:21:24</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2ea500aa939372104aa43d6efaba1072</sys_id>
+            <sys_id>88b13313939b3a104aa43d6efaba1042</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_u_produto</sys_name>
             <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
@@ -38,7 +38,7 @@
             <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
             <sys_update_name>sys_ui_list_u_u_produto_sys_ref_list</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 01:14:45</sys_updated_on>
+            <sys_updated_on>2026-03-04 02:21:24</sys_updated_on>
             <sys_user/>
             <view display_value="Reference List" name="sys_ref_list">a97eb353931232104aa43d6efaba1096</view>
             <view_name/>

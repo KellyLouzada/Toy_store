@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">56bbe8be9397f2104aa43d6efaba10a8</sp_column>
+        <sp_widget display_value="Report">e41aa2d29f0222008252baac757fcfce</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-01 22:31:49</sys_created_on>
+        <sys_id>a1f964fa9397f2104aa43d6efaba10c9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>sp_instance_a1f964fa9397f2104aa43d6efaba10c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-01 22:39:39</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"report_id": {
+		"value": "0f53188a0a0a0b5800d6a4731e658c96",
+		"displayValue": "KPI - Number of Incidents by Category"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a1f964fa9397f2104aa43d6efaba10c9"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>sp_instance_a1f964fa9397f2104aa43d6efaba10c9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;56bbe8be9397f2104aa43d6efaba10a8&lt;/sp_column&gt;&lt;sp_widget display_value="Report"&gt;e41aa2d29f0222008252baac757fcfce&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-03-01 22:31:49&lt;/sys_created_on&gt;&lt;sys_id&gt;a1f964fa9397f2104aa43d6efaba10c9&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee"&gt;e531c796939b32104aa43d6efaba10ee&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Toy Store"&gt;e531c796939b32104aa43d6efaba10ee&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_a1f964fa9397f2104aa43d6efaba10c9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-03-01 22:39:39&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"report_id": {
+		"value": "0f53188a0a0a0b5800d6a4731e658c96",
+		"displayValue": "KPI - Number of Incidents by Category"
+	},
+	"show_title": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a1f964fa9397f2104aa43d6efaba10c9"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1518353211</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c0db6ce293d772104aa43d6efaba1089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-01 22:39:39</sys_created_on>
+        <sys_id>50cb6cbe9397f2104aa43d6efaba10a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cab8ea9250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-01 22:39:39</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>dccb6cbe2797f210c9a7bc7b6f11a5a5</update_guid>
+        <update_guid_history>dccb6cbe2797f210c9a7bc7b6f11a5a5:-1518353211,597ba0be0697f21048e804f57581bcbf:-2048155303,eddae0ba0797f210d3d5d2e83f49d0e7:987318442,e1f964faf397f21068cac1b163de5acc:-925803752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4a32a64f9393b6104aa43d6efaba10c8</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-03 01:55:43</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>4988fec4803a479482ea456e6e8437a4</sys_id>
+        <sys_metadata>a1f964fa9397f2104aa43d6efaba10c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_scope_delete display_value="">7074588dcd01450cbdd61910f6013671</sys_scope_delete>
+        <sys_update_name>sp_instance_a1f964fa9397f2104aa43d6efaba10c9</sys_update_name>
+        <sys_update_version display_value="sp_instance_a1f964fa9397f2104aa43d6efaba10c9">50cb6cbe9397f2104aa43d6efaba10a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-03 01:55:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

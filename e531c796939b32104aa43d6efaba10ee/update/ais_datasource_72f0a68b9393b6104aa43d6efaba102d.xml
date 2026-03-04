@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conflict>false</conflict>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Pedidos Table</name>
+        <retention_policy display_value="Two years">04f129e57792f010be280d892c5a99d9</retention_policy>
+        <source>u_pedidos</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-03 01:50:18</sys_created_on>
+        <sys_id>72f0a68b9393b6104aa43d6efaba102d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Pedidos Table</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>ais_datasource_72f0a68b9393b6104aa43d6efaba102d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-03 01:50:19</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

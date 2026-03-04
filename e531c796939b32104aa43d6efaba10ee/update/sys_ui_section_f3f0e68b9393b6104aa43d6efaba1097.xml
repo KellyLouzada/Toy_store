@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f3f0e68b9393b6104aa43d6efaba1097" sys_domain="global" table="u_pedidos" version="3" view="workspace-toy-store-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>73f02a8b9393b6104aa43d6efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_prouto</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>7bf02a8b9393b6104aa43d6efaba10ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>fbf02a8b9393b6104aa43d6efaba10ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>fff02a8b9393b6104aa43d6efaba10eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>f3f02a8b9393b6104aa43d6efaba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>77f02a8b9393b6104aa43d6efaba10f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_data_de_entrega</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>7ff02a8b9393b6104aa43d6efaba10ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nome_de_cliente</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>37f0e68b9393b6104aa43d6efaba109b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_desconto</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>fff02a8b9393b6104aa43d6efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>f7f02a8b9393b6104aa43d6efaba10ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">f3f0e68b9393b6104aa43d6efaba1097</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_pedidos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3f0e68b9393b6104aa43d6efaba1097</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_pedidos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+            <sys_update_name>sys_ui_section_f3f0e68b9393b6104aa43d6efaba1097</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Toy Store 0" name="workspace-toy-store-0">24f0228bfa93b61054aa3c090c3d0a52</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

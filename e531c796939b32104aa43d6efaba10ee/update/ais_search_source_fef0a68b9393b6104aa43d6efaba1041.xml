@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">u_pedidos</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
+        <name>Pedidos</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-03 01:50:18</sys_created_on>
+        <sys_id>fef0a68b9393b6104aa43d6efaba1041</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pedidos</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>ais_search_source_fef0a68b9393b6104aa43d6efaba1041</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-03 01:50:18</sys_updated_on>
+    </ais_search_source>
+</record_update>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="b35063d2939f32104aa43d6efaba104e" label="Produto" max_length="40" name="u_u_produto" type="collection">
+    <element db_object_id="b35063d2939f32104aa43d6efaba104e" label="Produto" max_length="40" name="u_u_produto" text_index="true" type="collection">
         <element label="Descrição" max_length="40" name="u_descricao" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Descrição" max_length="102" name="u_rplcd_n_ascii_1294927794" type="string"/>
         <element label="Imagem" max_length="40" name="u_imagem" type="user_image"/>
         <element attributes="edge_encryption_enabled=true" label="Marca" max_length="40" name="u_marca" type="string"/>
         <element label="Ativo" mandatory="true" max_length="40" name="u_ativ0" type="boolean"/>
         <element label="Nome" mandatory="true" max_length="35" name="u_nom0" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Nome" max_length="40" name="u_nome" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Website" max_length="40" name="u_website" type="string"/>
         <element choice="1" label="Marca" mandatory="true" max_length="40" name="u_marc0" type="choice">
             <choice>

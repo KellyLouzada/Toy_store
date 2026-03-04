@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_u_ouvidoria" version="2" view="workspace-toy-store-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>f7f02a8b9393b6104aa43d6efaba10e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_follow_up</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>7ff02a8b9393b6104aa43d6efaba10e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>f3f02a8b9393b6104aa43d6efaba10e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>7bf02a8b9393b6104aa43d6efaba10e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>fff02a8b9393b6104aa43d6efaba10e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>77f02a8b9393b6104aa43d6efaba10e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>fbf02a8b9393b6104aa43d6efaba10e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_tipo_de_problema</element>
+            <list_id display_value="u_u_ouvidoria" element="NULL" name="u_u_ouvidoria" parent="NULL" relationship="NULL" sys_domain="global" view="24f0228bfa93b61054aa3c090c3d0a52">7bf02a8b9393b6104aa43d6efaba10e6</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_id>73f02a8b9393b6104aa43d6efaba10ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_u_ouvidoria</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-03 01:50:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bf02a8b9393b6104aa43d6efaba10e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_u_ouvidoria</sys_name>
+            <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+            <sys_update_name>sys_ui_list_u_u_ouvidoria_workspace-toy-store-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-03 01:50:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Toy Store 0" name="workspace-toy-store-0">24f0228bfa93b61054aa3c090c3d0a52</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

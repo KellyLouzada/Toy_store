@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource_field_attribute">
+    <ais_datasource_field_attribute action="INSERT_OR_UPDATE">
+        <attribute display_value="map_to">f734a634c7320010d1cfd9795cc26094</attribute>
+        <datasource display_value="Pedidos Table">72f0a68b9393b6104aa43d6efaba102d</datasource>
+        <field>u_prouto</field>
+        <source>u_pedidos</source>
+        <sys_class_name>ais_datasource_field_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-03 01:50:18</sys_created_on>
+        <sys_id>b2f0a68b9393b6104aa43d6efaba1075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_pedidos.u_prouto</sys_name>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>ais_datasource_field_attribute_b2f0a68b9393b6104aa43d6efaba1075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-03 01:50:18</sys_updated_on>
+        <value>title</value>
+    </ais_datasource_field_attribute>
+</record_update>

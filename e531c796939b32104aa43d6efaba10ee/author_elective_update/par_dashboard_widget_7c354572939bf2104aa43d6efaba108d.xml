@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c3997c7a931bf2104aa43d6efaba103a</canvas>
+        <component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component>
+        <component_props>{"table":"task","columnPreferenceKey":"","fixedQuery":"","followFilters":true,"listTitle":"All Active Tasks","columns":"number,priority,state,assigned_to,short_description,sys_class_name","maxColumns":5,"query":"active=true","groupByField":null,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"columns","value":"number,priority,state,assigned_to,short_description,sys_class_name","noDebounce":true,"propLabel":"Columns"}</component_props>
+        <h>9</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-02 00:30:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7c354572939bf2104aa43d6efaba108d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_update_name>par_dashboard_widget_7c354572939bf2104aa43d6efaba108d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-02 00:30:49</sys_updated_on>
+        <visualization/>
+        <w>25</w>
+        <widget_props/>
+        <x>23</x>
+        <y>9</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</application>
+        <file_path/>
+        <instance_id>cd0bef65eb11aa9cc040fddacad0cd0b</instance_id>
+        <instance_name>dev342970</instance_name>
+        <name>par_dashboard_widget_7c354572939bf2104aa43d6efaba108d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c3997c7a931bf2104aa43d6efaba103a</canvas><component display_value="List - Simple">2b1c080881e05dc63b917044290b233f</component><component_props>{"table":"task","columnPreferenceKey":"","fixedQuery":"","followFilters":true,"listTitle":"All Active Tasks","columns":"number,priority,state,assigned_to,short_description,sys_class_name","maxColumns":5,"query":"active=true","groupByField":null,"hideViewAll":false,"hideHighlightedValues":false,"showBorder":true,"bare":false,"highlightedValueConfigId":"","hideHighlightContent":false,"highlightContent":{"patterns":[],"color":""},"hideLinks":false,"nrlLandmark":true,"wordWrap":false,"overrideWordWrapUserPref":false,"maxCharLimit":4000,"hideEmptyStateImage":false,"hidePersonalization":false,"hideDotwalk":false,"hideColumnReorder":false,"hideRowSelector":false,"hideColumnGrouping":false,"hideColumnResizing":false,"hideColumnFiltering":false,"hideColumnSorting":false,"hideHeader":false,"hideTitle":false,"hideTitleRowCount":false,"hideLastRefreshedText":false,"hideRefreshButton":false,"hideInlineEditing":false,"isDashboard":true,"id":"columns","value":"number,priority,state,assigned_to,short_description,sys_class_name","noDebounce":true,"propLabel":"Columns"}</component_props><h>9</h><name/><stored_component/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-02 00:30:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7c354572939bf2104aa43d6efaba108d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package><sys_policy/><sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope><sys_update_name>par_dashboard_widget_7c354572939bf2104aa43d6efaba108d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-02 00:30:49</sys_updated_on><visualization/><w>25</w><widget_props/><x>23</x><y>9</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>1088231036</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>c0db6ce293d772104aa43d6efaba1089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-02 00:30:49</sys_created_on>
+        <sys_id>b4354572939bf2104aa43d6efaba1091</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19cabf472760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-02 00:30:49</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>b0354572df9bf210ec21185547685390</update_guid>
+        <update_guid_history>b0354572df9bf210ec21185547685390:1088231036</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0a12583b93dbba104aa43d6efaba10de</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-04 23:21:28</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>85fd2145c0ad4fa8ab2c3cbafeabdc40</sys_id>
+        <sys_metadata>7c354572939bf2104aa43d6efaba108d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_scope_delete display_value="">7074588dcd01450cbdd61910f6013671</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_7c354572939bf2104aa43d6efaba108d</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_7c354572939bf2104aa43d6efaba108d">b4354572939bf2104aa43d6efaba1091</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-04 23:21:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
