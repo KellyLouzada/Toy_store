@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>f5023fae93dfb2104aa43d6efaba108e</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>dba581339393fa104aa43d6efaba10df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_prouto</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>b1023fae93dfb2104aa43d6efaba108f</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>93a581339393fa104aa43d6efaba10e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>comments</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>7d023fae93dfb2104aa43d6efaba108f</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>13a581339393fa104aa43d6efaba10e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>assignment_group</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>39023fae93dfb2104aa43d6efaba1090</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>9fa581339393fa104aa43d6efaba10e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>assigned_to</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>f1023fae93dfb2104aa43d6efaba1091</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>1fa581339393fa104aa43d6efaba10e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>bd023fae93dfb2104aa43d6efaba1091</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>9ba581339393fa104aa43d6efaba10e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_data_de_entrega</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>79023fae93dfb2104aa43d6efaba1092</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>1ba581339393fa104aa43d6efaba10e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>u_nome_de_cliente</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>35023fae93dfb2104aa43d6efaba1093</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>97a581339393fa104aa43d6efaba10e6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,27 +116,13 @@
             <element>u_desconto</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>fd023fae93dfb2104aa43d6efaba1093</sys_id>
+            <sys_created_on>2026-03-05 03:06:50</sys_created_on>
+            <sys_id>17a581339393fa104aa43d6efaba10e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-01 18:27:26</sys_created_on>
-            <sys_id>b9023fae93dfb2104aa43d6efaba1094</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="u_pedidos" sys_domain="global" view="Default view">66bf2b1e93df32104aa43d6efaba1084</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-01 18:27:26</sys_updated_on>
+            <sys_updated_on>2026-03-05 03:06:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

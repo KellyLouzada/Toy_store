@@ -4,7 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=203963000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=chrome,integrationActivatedIn=standalone,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=362588000,viewActivatedIn=naturalLanguage</attributes>
         <authored_on_release_version>27800</authored_on_release_version>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
@@ -36,7 +36,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>61f1ebee935fb2104aa43d6efaba1060</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_name>Solicitação de brinquedos</sys_name>
         <sys_overrides/>
         <sys_package display_value="Toy Store" source="e531c796939b32104aa43d6efaba10ee">e531c796939b32104aa43d6efaba10ee</sys_package>
@@ -44,7 +44,7 @@
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_update_name>sys_hub_flow_61f1ebee935fb2104aa43d6efaba1060</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:41</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:26</sys_updated_on>
         <type>flow</type>
         <updation_source/>
         <version>2</version>
@@ -85,14 +85,14 @@
         <identifier>61f1ebee935fb2104aa43d6efaba1060</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-03-04 01:56:41</sys_created_on>
-        <sys_id>f50c2717935b3a104aa43d6efaba10d8</sys_id>
+        <sys_created_on>2026-03-05 22:00:26</sys_created_on>
+        <sys_id>7c29010893237e104aa43d6efaba1080</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:41</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:26</sys_updated_on>
         <trigger display_value="">29192b6e939fb2104aa43d6efaba10b6</trigger>
     </sys_trigger_runner_mapping>
-    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT INf50c2717935b3a104aa43d6efaba10d8"/>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT IN7c29010893237e104aa43d6efaba1080"/>
     <sys_hub_flow_stage action="delete_multiple" query="flow=61f1ebee935fb2104aa43d6efaba1060"/>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT IN21f1ebee935fb2104aa43d6efaba1066"/>
     <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
@@ -305,45 +305,45 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem de alerta para pedido crítico</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
         <generation_source/>
-        <order>9</order>
+        <order>10</order>
         <parent_ui_id>aa6fa6fb-075d-4fba-8756-10cd32621004</parent_ui_id>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>086763db931b3a104aa43d6efaba10bc</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>ea457546-17b5-4960-a1ac-ec0dd7c4ea04</ui_id>
         <updation_source/>
-        <values>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</values>
+        <values>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</values>
     </sys_hub_action_instance_v2>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=086763db931b3a104aa43d6efaba10bc"/>
     <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
         <action_type display_value="Wait For Condition">89ce8a4187120010663ca1bb36cb0be3</action_type>
         <action_type_parent display_value="Wait For Condition">8bb9a8160b10030085c083eb37673aec</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Condição de atribuição a um usuário</comment>
         <compiled_snapshot>89ce8a4187120010663ca1bb36cb0be3</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
         <generation_source/>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:36</sys_created_on>
         <sys_id>122adb5393d73a104aa43d6efaba1065</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>dd571008-dfee-4d2d-b8ab-c3ac5872af85</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+2Xa2+bSBSG/0rFZ4+XgQEP+VbZjhopTSrb29WqqtAwl3ikMbhc0nqt/PcOMBhsHDfZOpEi9SNnLn7Pe87jA1+2lmTWhYUCyjFBEI+gY9vQ9n2XEhhFrk8jO+LIGlgxWXG9M+U0SZl+vieqKAPb7TjlJOcshENapCmP84cHvc5ktlZk89ls0xG6lIrpdeviy9eBtSapvjHnqXWxPVh6qiRFIq701lmj6VBjvlmXzyyhxUrrCmUTvDYnJ2bl3dVEr+hDpRw4sPiPnMeMax2CqIwPrBWJGcmTdGNd5GmhAzpndhurzW7HUsZ5neeK/Mjkf/qHXafcJ7hOjBoPdo+h8acOiwnJyVzfTPMi3dmVSMqz2hLGBSlUPu7G6g2361wmcX0kJ5FqTieqWMU3tSHW7oJOOYpMi+DrMs9SeZ2WmC+T77NG5KWMK0dMiiqhRO2eSJ6nMiryUs7WKuTimNl1+LjdQipd/rASHWZJkVYmzabj29kk/Of9YvxhOgtn0/lidjVeTMsTXPHq6hVZr2V8F67T5F5WCnW+q+Gd0g9DoZLvOrFM3sVDQktzhrp0ZHip45Mq/JmksvzRj/oafbhU+XcsvxX8qmo8IaALfR9AaLsAwcgHAeYesLlHkOcg3/Md62FgZZtsrEiWtR7r4obfitKi2nHjbViVp06z6tDyME3lOn+v5d1z4+jDoIHRO9n5pG30zp0tkEW45kyyJOtD+Gm38EwWf62oYXFRteBxhQbHXuy6e/bdTb1gYHROw2giLY11Gx+BEdtvCEaT1u/TuOf1Pox7bsssrFvSiK5ufS3iHIgDjCIXuBHyAAqEANjGCCBObOo5bIQg/R/E/ZKz0xNGtF1Mk5jJMq+sw5kWojPTcy9PruY3t4vpx0+Lf/vMPbbtrNNQdAgcd8UeS8Bg2ItdH7vAYOieayYi235LIJ5rKu6Zvc/hnt2vwhtn2I88GwMuMAbIHWEQQMcBvk8YhIgyYb/shLPZqW4WndfNXK54UuShUOSuw57d56z5x3oeV09Q0nA1jas/TKPoUYmGrihJFCfx4YTT7fTXpVFq0ELPnHCn2HpDZJ1txLVOH8y3rtevwhWlBOuBRUDgUg6QH1GABRXA5ZEnXC/C0ch+gTlGT/dw0G9VVqSkqmJL1Bm+2J6go2Fp0gp4XJohqarNYfy6f5HByfuD02/h1LP74BOuXXgpppb63IRssrIrNMN9yjgkIy8qv8oIQE4AAQmQAwKfjzgS2HdJ8AKUYXiyu0W/lTO65KxQ/LyUPUFHQ9m8FfC4NENZ2+j7gM06cUOYfzbCcO9lkK7irrhjvHWyepPciTknKV1eSq7Keppvs0do7JZlH8RuYV5nujkOdBmnADL96ogc3wHYRSMwCnBkI916kcvPyN3Xnwk68h6cFAAA</values>
@@ -364,10 +364,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-03 02:26:16</sys_created_on>
         <sys_id>293922cb93d3b6104aa43d6efaba103e</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>7c6a3a04-7092-4f13-8ef4-a4a2f43e7598</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+2Y32/bNhDH/5WAz45GWbYi+y2IkaHD1g5J2pc4ECiScjjQlCpSaT3D//tOIvWjduI6g1MgTV8M8HhHfe/0OVL07RoJhqboLEqHfDIZ4sTHOMA4GlMcBTwJzsKzgFCMBkiRJQfPgtOsYDB+ILKsDOv1RcGJ4Sz2PVoWBVdms4F5JnQuyeqTcwMLvReSwTya3t4NUE4KWNHwAk3XW1OHSpIk4RJcrxpN2xrNKq/GLKPlEnTFojH+6SJnbubk3QxmIKiSgweIfzVcMQ46UiI1H6AlUYyYrFihqSlKMEDO7IOSq9bjXihj81ySr1r8Cw8OhpVfyiEx6mrQDmNXH2tOZ8SQa1iZmrJoy5UJyrUtCeMpKaW56Nusw4fciEzZEEMS2URnslyq97YgqF2g9zpKDSJ4XuVZKbdppdf32ZerRuSlUHVFXIoyo0S2I2JMIZLSVHLWiEtel3hJ8lyoRZwX2YOog0HK0ltIGHipzL7AM7VYKI/QSrcHVSXeJdhntfkTKUSVxF+wDARvBkiv9IUkWnepQA3jz2WlxCbmUojrKtgSVHG0ELk5h6c8cKd5M3C4J3QvW7RDyS7X0V7GOWeCZXqX8L/bieeBfoCYBvQbp2ZLnMO8Hsb13LeU12En7+2Eg9zfD7mzdJRbPB6BPMKvCHKX1qun/HuA81EYjOHnLA2wP/RxxMMoohNMaBSG41HQMQQKIAciY3jVGtbuUD/CHn6AjAbtc6fj5KrR8aRAh7uGF6MWW6hfN0aH+fCZmD+9mfvhWwK9FDdbVbaWnTq/TEdUj/uoxOeSv6s4CodJOMERO2UpTk5HUTA+JZTjUx76Yz5mIR37wQt0Efb37cwsegTSVHDJjttEB6jYaaJLJ+Mpea6F6uFjJ0Ydv3ViHK+VIoxfUy+9pS8juhc23js4/snKQr0M8QeIaIj/w6rYBn5b3P/hPfjF+8/P+2i8F7Xex3a7h9JMMVEp1j3q7c7L9blafbx95ErsZaANDMnKA4bIghebzd3v4KkNMYJ6fjIJq4vAJPCTFL6URoSMAhbCq0oIKMPgvdtYP+ahz+vdAwraXttLyfX3Cuw6t/sKdEH97u2+Hd2k6+DRsS7yr6yB38oth+5lLZ10bLESCgTN0f/fao6s7DmazpHKFJ+jwRxVXnEFV20GDxDXTtS29XqzsZayIG4BvzfsohlZ6dpT03vOgM3a+o0lrpvB2Y/xt9kBNWn6b1byk5ktym6ZmktWo9PWReycnNfOoV7ptxvRP0HHRztBR7/a7xhXqrjZRqvjEXa/I/bk3X8GDCSlSxYAAA==</values>
@@ -377,7 +377,7 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem enviada de aprovação</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
@@ -388,10 +388,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:09:40</sys_created_on>
         <sys_id>4941a7df93d73a104aa43d6efaba10af</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>b3fddda4-cd70-4ec4-8557-16513a7c66b0</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Y3W7bNhR+FU5XG2C78k/sOL3qEgQr0D80QXfRFAJFUjZXStRIKokXGNj9HmHAHm5PskOJ+rGduHLrbinmK8PnHB5+h/y+Q5Hv7zxOvRNvRI/9cRiN8MQfDoa+fzyYTsPhNPKPJ1O/T6jX8RIcM4hUjEhl/19jkVnD3d2pYtgwGvR7JFOKJWa5BD/lOhV48c6FgYXMuaDg907ef+h4KVaQ0TDlndytudpCEjhkAkIvsZoxg96W0NahmkVq/1NJshjgBbw0vnAJzpwHPT8DDwyyqPyOx24NSygDOBEWmnW8GCcUG6kWlQVqp68TURvmPDGQ8pnWknBYF43MnCEWYy7QDTdzhFEBrOfZfLea/wbghgObKmKwBsRi5QnhFBB5DXPglhTcz2t3dIYNvjAqIyZT1UpLTpguVpOyCGfCnDZtRcDr1HCZFEMMDkU5WoosTl4Vi+hVCRo7mWkAw1K7NrZYmBwKjy7m8uZtCfacJ/kqulURkmBR/YsuGFZkfs6ZsFudZHEIsR0PG6N4mBkLE0ghIKqeJ8ih2rkgkgmWb2WM05QnsyBV8prnEwL8uDcT8KcXCXkD4zWfJT1MbK092D3cOwf7WW5+hxW3hb+ENDB42fH0Qp8KrHVdPqx/8Gtm0ReLsQrHjg5ywtnBRPHUPIOprpkrdtlxEutPt/GZjmreNnLWMsuClFFOpd6U1pvKsZvCWiCqFWbZcT9Cp64N24vmWPSqcDht9XfUVsEwJ61L0JMpJF8oCRkHr5LTsb8qpwdk9DjkU4mitX5WdfJ1tAAk0UFBaFdbPvlnaORTyvDH4zAch0eTYc3DKYnoJIzGeEKGNe9uoJ+qGKuPQd5PG/Lob8rCdYrdNNECS6kJ6MEiowz9XILahtOJJJQSmlqyrhBA+uQ8X91KIYMvOn0KaiIjEWymWMCZU0GyxvpEMnNsENdIw2710KVE3FXVGNFBC5mhONMGwgx4VsS3coyNHq/uHB2c9exernwTwty/AI+2HwS4JjaeB0Zu//jrSZgbDOGil1NsuUSb2mw9bjf1tiikOtHkZlVOpBr2MJmtafSiNDp9DrfrsziwNuTZOKD8xyuVb0UJFrjgMc8JUWh4/+KgWznF/BUaEdIQxx4uQS0mLwl9erqJZBdCjz7vwDkw+ptjdH/rzZqNV3gU7pvSLWYvKf3jGqfDnUl9dCD1/4TUR9tpRVaIpLPwF0ZMg9iouESjZ7ZkTOUm0e+J2PHj5NMIS+JfVPjuw7yLAMaHz5T/nP/7JzveSqVosNo1JV00mH6V+f6QpMhi7hqeLGLClJQmhIX5mDvplXdVhDHNMlS8O6FinE5xgogtpQy1eQLgvgWfciGuPKTNQrDKX3DkBG6WgifsKfiJTICS8PXP880uI/MawZ0js6lyyKX37i6igVE40ZFU8cmURVDraNCdEIK7o4hE3WlEj7twe+8PhyHuTwfhclnWsR08TIUQJoSlRtdTBFGW5NurARMAtTS6LQf6/3IZbruYNpyWqaze3kD+57RNmTmUrsOc/2LYDvWpoXaUbhME4G5NBVRKYXjarcHmd6zceCnT9TCHqoy9VHw2Ywp13ZM+cpfFnIOD8cw8dc1YlwG141X+loy+L96Uf2iFXBusTBn50ORFhic2RYuUWCl5035b8sbfJaAis+uglZn+/uvPB3A2DL1e75Eh2m1toVOW2dd3+3NnghPAyATVdN3sAkGECaYsaKNY2xyasB/MhhLZaDj2rY4D0zxkD5BiNcsUr+GAQFUoKvOglJOPsAJgRA8xF7ZgVS5g2FEmRe/uFmdSl4Ne7xlxf9tPZN70HRt+/6P1HhV7sts+NgywJBxh97H2nXOnhW/z686dil/x1NvPQfRo+vyhrR7a6qGtHtrqWlvd7Urc4h5TvQUVt5iNa427DM9NLNauwj9dvnxRX4QnX/gSND46Go4PV+EvfgpKb+iAKpmmrrY9Pwd9+AdfzRe60iQAAA==</values>
@@ -401,21 +401,21 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualiza pedido para in Progress</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
         <generation_source/>
-        <order>11</order>
+        <order>12</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:36</sys_created_on>
         <sys_id>522adb5393d73a104aa43d6efaba1066</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>c8dcb61b-faf0-4276-b114-f7d084e7a49b</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVobYwdp6HNbkgIDHTaoR2y6RQjS8eJQL6MLmkzJu8+x7bsmKS0KXQTxrtzk/7z+0NPFRGczMgEeBDehFMWhVE0DoLx9SRMplESjnlEAULikZxmgJ0KWKE4xlsqbZ2oqrkCaoDHoc+sUpCb/R7rXOhS0t3KtWGGbYTkWCezp2ePlFThiQYUmVVHpXMlSZqAxNaHTtOxRrMr65gXzGaoKxZd8tZNLlxl9H2BFRyq5YSBR+DVQM4BhaRUavBIRnNOTaF2ZGaUxQQuze9zues7NiI37aIZfdXiL948Ceq+FHAz5kzow9gZ1KbTBTX0EU9mxqrer0Iw0K0nHFJqpZkPc23DfWlEkbcjhiaymy6kzfK71hHSHzD4H1ajCCjrPWvl7Vrp46Z4eehELkXeWOJWlAWjso+oMUok1tRyKgISGo8zWpYiX8elKraiGUYpmb+WGPipLF7wTi3WuU9ZrdtHV6m/xPyiSa+oEvUSP/AYHN57RO/0XFKtD6ugh/EfWytpF3MrxI0LjQVxQ0I9zJQozTe8agtO+N5z0CdX7xHGbg5ADc48gG/jErjghT6F/Wdf+BzzZyjqmP/V/Om3FTrsT3K3w9nRXVtw0F99GfTXlwS9W+Piqf+I9WD87ms6IKnBWw841wZf9982CCI+PkX9qPo53s9Q1fG+FCC5fkNmBztkKMtA3Mo+At4VRytX7F/6L6M+nAbNd0Hs/zcP/vM/XQDtgecIAAA=</values>
@@ -425,7 +425,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualização do status do pedido</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
@@ -436,10 +436,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>735763db931b3a104aa43d6efaba10b6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>b8ad4c4e-8c5e-4c5a-b922-e4d21d13819c</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVo7TF2nIQ2uyEhUOhlaIdsOsXI0nEikC+jS9pMyLvPsS07JimdFLoJ4925Sf/5/aHnHRGcTMkIeBBehxMWhVE0DILh1ShMJlESDnlEAULikZxmgJ0KWKE4xhsqbZXY7WYKqAEehz6zSkFu9nusc6FLSbdL14YZthaSY51Mn188UlKFJxpQZLo7Kp0rSdIEJLY+tpqONZptWcW8YDZDXbFok7ducu4qg5s5VnCokhMGHoE3AzkHFJJSqcEjGc05NYXakqlRFhO4NH/I5bbrWIvcNItm9E2LP3jzKKj6UsDNmDOhC2NnUJNO59TQJzyZGas6vwrBQDeecEiplWbWzzUND6URRd6MGJrIdrqQNsvvG0dId0Dvf1iNIqCs9qyUN2ulT+vi9bEVuRB5bYlbURaMyi6ixiiRWFPJ2RGQUHuc0bIU+SouVbER9TBKyfyVxMBPZfGKd2qxyn3KKt0+ukr9BebndXpJlaiWuMNjcHjvEb3VM0m1PqyCHsa/baWkWcytENcu1BbENQnVMFOiNN/xqg044XvPQZ+MPyKMXR+A6p15AN/GJXDBC30K+4+u8Dnmz1DUMv+z/tPvK3TYn+Ru+7OD+6bgoB9/GfRXlwS9W+Piqf8X68Hww9e0R1KNt+5xrg2+7r9sEET82/iU9ePy54g/Q1dL/EKA5PodoS3ukKEuA3Ej/Ah5VxwsXbF767+M+3AS1N8F0f/fPPkvfwF0dvDM6QgAAA==</values>
@@ -449,7 +449,7 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem de reprovação</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
@@ -460,10 +460,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>8c6763db931b3a104aa43d6efaba10b8</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>c4e448b5-3d85-4399-abfb-dabfd161be22</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Y3W7bNhR+FUJXG2C78k/sOL3qEgQr0D8kQXfRFAJFUjZbStRIqokXGNj9HmHAHm5PskOJ+rGduHLrbinmK8PnHB5+PPy+Q5Hv7jxOvRNvRI/9cRiN8MQfDoa+fzyYTsPhNPKPJ1O/T6jX8RIcM4hUjEhl/3/CIrOGu7tTxbBhNOj3SKYUS8xyCX7KdSrw4q0LAwuZc0HB7528e9/xUqwgo2HKO7lbc7WFJHDIBIReYTVjBl2U0NahmkVq/1NJshjgBbw0vnAJzpwHPT8DDwyyqPyOx24NSygDOBEWmnW8GCcUG6kWlQXWTl8nojbMeWIg5TOtJeFQF43MnCEWYy7QDTdzhFEBrOfZfLea/wbghgObKmJQA2Kx8oRwCoi8hjlwJQX389odnWGDL43KiMlUVWnJCdNFNSmLcCbMadNWBLxODZdJMcTgUJSjpcji5FVRRK9K0NjJTAMYltra2MXC5LDw6HIuby5KsOc8yavoqiIkwaL6F10yrMj8nDNhtzrJ4hBiOx42RvEwMxYmkEJAVD1PkEO1c0EkEyzfyhinKU9mQarkJ55PCPDj3kzAn14k5A2M13yW9DCxa+3B7uHeOdjPcvNbrLhd+EtIA4OXHU8v9KnAWtfLh/oHv2YWfVGMVTh2dJATzg4miqfmGUz1ibnFLjtOYv3pNj7TUc3bRs5aZlmQMsqp1JvSelM5dlNYC0S1wiw77kfo1LVhe9Eci14VDqet/o7aKhjmpHUFejKF5AslIePgVXI69lfl9ICMHod8KlG01s+qTr6NFoAkOigI7daWT/4FGvmcMvzxOAzH4dFkWPNwSiI6CaMxnpBhzbsb6KcqxupjkPfThjz6m7JwnWI3TbTAUmoCerDIKEO/lKC24XQiCaWEppasKwSQPjnPq1spZPBVp09BTWQkgs0UCzhzKkjWWJ9IZo4N4hpp2K0eupKIu1U1RnTQQmYozrSBMAOeFfGtHGOjx6s7RwdnPbuXK9+FMPcvwKPtBwGuiY3ngZHbP/56EuYGQ7jo5RRbLtGmNluP2029LRZSnWhyc1VOpBr2MJmtafSyNDp9DrfrsziwNuTZOKD8xyuV70UJFrjgMc8JUWh4/+KgWznF/BUaEdIQxx4uQS0mLwl9erqJZBdCj77swDkw+rtjdH/rzZqNV3gU7pvSLWYvKf3TGqfDnUl9dCD1/4TUR9tpRVaIpLPwAyOmQeziDo0u2AfGDabyoVv2SsSOHyefR1gS/7LCdx/mXQQwPnym/Of83z/Z8VYqRYPVrinposH068z3hyRFFnPX8GQRE6akNCEU5mPupNfedRHGLlmGincnVIzTKU4QsUspQ22eALhvwadciGsPabMQrPIXHDmBm6XgCXsKfiIToCR8/fN8s8vIfI3gzpHZVDnk0nt3F9HAKJzoSKr4hI0jctwfDLrH2GfdUYQnXXw0nnTpqB/6U9+HcpDlslzHdvAwFUKYEJYaXU8RRFmSb68GTADU0ui2HOj/y8tw28W04bRMZfX2BvI/p22WmUPpOsz5L4btUJ8bakfpNkEA7tZUQKUUhqfdGmx+x8qNVzJdD3OoytgrxWczplDXPekjd1nMOTgYz8xT5N48y4Da8Sp/S0Y/FG/KP7ZCrg1Wpox8aPIiwxObokVKrJS8ab8teePvElCR2XXQykx///XnAzgbhl6v98gQ7VZb6JRl9vXd/tKZ4AQwMkE1XTe7QBBhgikL2ijWNocm7AezoUQ2Go59q+PANA/ZA6SoZpniNRwQqApFZR6UcvIRKgBG9BBzYQtW5QKGHWVS9O5ucSZ1Oej1nhH3t/1E5k3fseH3P1rvUbEnu+1jwwAl4UiVX2vOnRa+za87dyp+w1NvPwfRo+nzh7Z6aKuHtnpoq2ttdbcrcYt7TPUWVNxiNq417jI8N7FYuwr/fPXyRX0RnnzlS9D46Gg4PlyFv/opKL2hA6pkmrq17fk56P0/E7fK7NIkAAA=</values>
@@ -473,7 +473,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualização de status de pedido para finalizado</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
@@ -484,21 +484,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>cc6763db931b3a104aa43d6efaba10b9</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:58</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:02:21</sys_updated_on>
         <ui_id>25926952-1b09-41ab-b110-dba628ad369e</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVobYwdp6HNbkgIDHTaoR2y6RQjS8eJQL6MLmkzJu8+x7bsmKS0KXQTxrtzk/7z+0NPFRGczMgEeBDehFMWhVE0DoLx9SRMplESjnlEAULikZxmgJ0KWKE4xlsqbZ2oqrkCaoDHoc+sUpCb/R7rXOhS0t3KtWGGbYTkWCezp2ePlFThiQYUmVVHpXMlSZqAxNaHTtOxRrMr65gXzGaoKxZd8tZNLlxl9H2BFRyq5YSBR+DVQM4BhaRUavBIRnNOTaF2ZGaUxQQuze9zues7NiI37aIZfdXiL948Ceq+FHAz5kzow9gZ1KbTBTX0EU9mxqrer0Iw0K0nHFJqpZkPc23DfWlEkbcjhiaymy6kzfK71hHSHzD4H1ajCCjrPWvl7Vrp46Z4eehELkXeWOJWlAWjso+oMUok1tRyKgISGo8zWpYiX8elKraiGUYpmb+WGPipLF7wTi3WuU9ZrdtHV6m/xPyiSa+oEvUSP/AYHN57RO/0XFKtD6ugh/EfWytpF3MrxI0LjQVxQ0I9zJQozTe8agtO+N5z0CdX7xHGbg5ADc48gG/jErjghT6F/Wdf+BzzZyjqmP/V/Om3FTrsT3K3w9nRXVtw0F99GfTXlwS9W+Piqf+I9WD87ms6IKnBWw841wZf9982CCIenaJ+VP0c72eo6nhfCpBcvyGzgx0ylGUgbmUfAe+Ko5Ur9i/9l1EfToPmuyD2/5sH//kfN2ep9ecIAAA=</values>
     </sys_hub_action_instance_v2>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=cc6763db931b3a104aa43d6efaba10b9"/>
     <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=61f1ebee935fb2104aa43d6efaba1060"/>
-    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT IN446763db931b3a104aa43d6efaba10b7,c06763db931b3a104aa43d6efaba10bb,de2adb5393d73a104aa43d6efaba1033"/>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT IN446763db931b3a104aa43d6efaba10b7,c06763db931b3a104aa43d6efaba10bb,de2adb5393d73a104aa43d6efaba1033,e46845779393fa104aa43d6efaba10ac"/>
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">cc6763db931b3a104aa43d6efaba10b6</block>
-        <comment/>
+        <comment>Condição de rejeição de pedido</comment>
         <connected_to>6a877ef7-b3c7-44ad-b3db-882e78a44914</connected_to>
         <decision_table/>
         <display_text/>
@@ -513,10 +513,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>446763db931b3a104aa43d6efaba10b7</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:38</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:23</sys_updated_on>
         <ui_id>666e71ae-af62-4a7a-9ab5-b7287fcccac7</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
@@ -525,7 +525,7 @@
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">4c6763db931b3a104aa43d6efaba10ba</block>
-        <comment/>
+        <comment>Se o pedido for indicado como crítico</comment>
         <connected_to/>
         <decision_table/>
         <display_text/>
@@ -533,17 +533,17 @@
         <flow_variables_assigned/>
         <generation_source/>
         <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
-        <order>8</order>
+        <order>9</order>
         <outputs_assigned/>
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:20</sys_created_on>
         <sys_id>c06763db931b3a104aa43d6efaba10bb</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:38</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:23</sys_updated_on>
         <ui_id>aa6fa6fb-075d-4fba-8756-10cd32621004</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Uy27bMBD8FUNnQdAjNhrfghQBCrQN0AS5tIGwIlc2UYpUScqOa/iDeuhX5Me6FCXHaBzECHrszZx9zMxq4G2kO9d2zt7qC2vFQkXzr/dxJJTH6Pc2UtBgNI+YVlw4oVXZA3G0Atn5wg1OWiO0ERw4Th5/TZh5/O0EA+rhwrYSNncntLKlkNzgwN+CIRaHJppv/yq5TYulhAql3+iMUAsaF5xedQp1ds4yVuSzIk/T/N1ZVs2KKst5AQgF9Y2Dl6OdycceiV/06fkItyOTNtzLytI4wgeHiiNR1yAtxlEDioPTZrNHDAK/VvIJWArlaF3kmx+s+Em78+nUN9ZIHhmG4v5ZDjcMMFtqwfC69QID4qCSwwzTsmvU5+DDXx9r6KQbr09IZ2kftl60VzFIqm+Wev1lJLwSqjc4FKVmIPcvcHSGqnNo/YdBiQ0tKhtoWzpO2Rq9Ev0waWmShaRHUku9JlKfrQSYF57QjSC5Ivx9D9+BEd7FJ1pDw0FmBVawss8hrXOGLOz6s5Q/Oi8oGByslOEa1GCZEa27IJ4VDqp38fMQH+R3u72kj+SQl1nCOkM3cElIqdvsdt+6NC149jzLp479i1yfw7SeZun0eK7PZsdyfSTRL4c5fyXM/vwnZjlN0/9hPgyzsGUI5eCtJ39zlu99cAODDbnhyIQlIbce+zD+b/vChgIg2CG01ua7t/CE7f4AsfbNMAEGAAA=</values>
@@ -552,7 +552,7 @@
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">1a2adb5393d73a104aa43d6efaba1031</block>
-        <comment/>
+        <comment>Condição que aprova o pedido</comment>
         <connected_to/>
         <decision_table/>
         <display_text/>
@@ -567,13 +567,40 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:36</sys_created_on>
         <sys_id>de2adb5393d73a104aa43d6efaba1033</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:38</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:23</sys_updated_on>
         <ui_id>6a877ef7-b3c7-44ad-b3db-882e78a44914</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Uy27bMBD8lUJnWaBeft2MFgEKtA3QBLm0gbAiKZsoRaokZcc1/O9d6uEYsYMWRY69ibPc3ZnlrA6Bbl3TOnuvV9aKtQqW3x7DQCiP4fchUFDzYBlQrZhwQquiA8JgC7L1gVVj9BaYRogJ20jYP1xG6EZIZvhQvQGDNRw3wfLwIuT2DS8klFxigTtnhFpjumB4qghU8YLGNE2maUJIMs/icpqWccJS4JDivTHx/Uj23acOCV9V4fshbsdO2jBPKyZhwJ8cV4xj6wqk5WFQg2LgtNmfEMOB3Sr5DGyEclgu8JefrPiFtZM89xcrjhop74OnYzGMrIfpRgvKbxtPsEcclHLIoVq2tfrS6/DD5hW00o3DRqS1WI83nrRnMVCq7jZ693VseCNUJ3AISk1Bnk7gcAxl67j1D8Mlr7FQUUPT4HAK/5qiS0YudbSWeIgqqXfY1DsnAuqJRzgjiG4Q/9DBD2CEV/EZy2ByT7MEK2jRuQzLOYMSjt1Yip+tJ9QLHKQU/TTwgqVGNG6FfbZ8YH0MLy165s7DYUankALJJjOySCZZFaeTOa+yCWSQVFnKZ/liHiE371VZWAeOH4/fW0JS1qPogAtrv1XZt9iLBeRVHpP8+l5k02t7cWUjXl+G5A/L4J/vL3eBEPJ/Gc6XQdiiN/WgrWv+z7vw6I3fd7C9bxinwiKRe499HP/qPrBHAwh6Du20+eElPGPH3yNy5swfBgAA</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">a46845779393fa104aa43d6efaba10ab</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Solicitação de brinquedos">61f1ebee935fb2104aa43d6efaba1060</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
+        <order>8</order>
+        <outputs_assigned/>
+        <parent_ui_id>666e71ae-af62-4a7a-9ab5-b7287fcccac7</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-05 03:18:40</sys_created_on>
+        <sys_id>e46845779393fa104aa43d6efaba10ac</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-05 22:00:23</sys_updated_on>
+        <ui_id>7c03cdb7-82fe-411d-b7b5-aeacf2de0261</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
         <workflow_reference/>
     </sys_hub_flow_logic_instance_v2>
     <sys_hub_pill_compound action="delete_multiple" query="attached_to=61f1ebee935fb2104aa43d6efaba1060^sys_idNOT IN086763db931b3a104aa43d6efaba10c5,1809676e939fb2104aa43d6efaba1050,1e2adb5393d73a104aa43d6efaba1076,4c6763db931b3a104aa43d6efaba10c5,5a2adb5393d73a104aa43d6efaba1077,613922cb93d3b6104aa43d6efaba1053,9e2adb5393d73a104aa43d6efaba1077,ad3922cb93d3b6104aa43d6efaba1053,d22adb5393d73a104aa43d6efaba1078,d941a7df93d73a104aa43d6efaba10ca"/>
@@ -827,7 +854,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>95192b6e939fb2104aa43d6efaba101e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -835,7 +862,7 @@
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <type>flow</type>
         <version>2</version>
     </sys_hub_flow_snapshot>
@@ -919,14 +946,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-01 17:48:22</sys_created_on>
         <sys_id>d1192b6e939fb2104aa43d6efaba1022</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1003,14 +1030,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-01 17:48:22</sys_created_on>
         <sys_id>dd192b6e939fb2104aa43d6efaba1035</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1053,21 +1080,21 @@
         <action_type display_value="Wait For Condition">89ce8a4187120010663ca1bb36cb0be3</action_type>
         <action_type_parent display_value="Wait For Condition">8bb9a8160b10030085c083eb37673aec</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Condição de atribuição a um usuário</comment>
         <compiled_snapshot>89ce8a4187120010663ca1bb36cb0be3</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
         <generation_source/>
-        <order>10</order>
+        <order>11</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:46</sys_created_on>
         <sys_id>283a5f5393d73a104aa43d6efaba10a5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>dd571008-dfee-4d2d-b8ab-c3ac5872af85</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+2Xa2+bSBSG/0rFZ4+XgQEP+VbZjhopTSrb29WqqtAwl3ikMbhc0nqt/PcOMBhsHDfZOpEi9SNnLn7Pe87jA1+2lmTWhYUCyjFBEI+gY9vQ9n2XEhhFrk8jO+LIGlgxWXG9M+U0SZl+vieqKAPb7TjlJOcshENapCmP84cHvc5ktlZk89ls0xG6lIrpdeviy9eBtSapvjHnqXWxPVh6qiRFIq701lmj6VBjvlmXzyyhxUrrCmUTvDYnJ2bl3dVEr+hDpRw4sPiPnMeMax2CqIwPrBWJGcmTdGNd5GmhAzpndhurzW7HUsZ5neeK/Mjkf/qHXafcJ7hOjBoPdo+h8acOiwnJyVzfTPMi3dmVSMqz2hLGBSlUPu7G6g2361wmcX0kJ5FqTieqWMU3tSHW7oJOOYpMi+DrMs9SeZ2WmC+T77NG5KWMK0dMiiqhRO2eSJ6nMiryUs7WKuTimNl1+LjdQipd/rASHWZJkVYmzabj29kk/Of9YvxhOgtn0/lidjVeTMsTXPHq6hVZr2V8F67T5F5WCnW+q+Gd0g9DoZLvOrFM3sVDQktzhrp0ZHip45Mq/JmksvzRj/oafbhU+XcsvxX8qmo8IaALfR9AaLsAwcgHAeYesLlHkOcg3/Md62FgZZtsrEiWtR7r4obfitKi2nHjbViVp06z6tDyME3lOn+v5d1z4+jDoIHRO9n5pG30zp0tkEW45kyyJOtD+Gm38EwWf62oYXFRteBxhQbHXuy6e/bdTb1gYHROw2giLY11Gx+BEdtvCEaT1u/TuOf1Pox7bsssrFvSiK5ufS3iHIgDjCIXuBHyAAqEANjGCCBObOo5bIQg/R/E/ZKz0xNGtF1Mk5jJMq+sw5kWojPTcy9PruY3t4vpx0+Lf/vMPbbtrNNQdAgcd8UeS8Bg2ItdH7vAYOieayYi235LIJ5rKu6Zvc/hnt2vwhtn2I88GwMuMAbIHWEQQMcBvk8YhIgyYb/shLPZqW4WndfNXK54UuShUOSuw57d56z5x3oeV09Q0nA1jas/TKPoUYmGrihJFCfx4YTT7fTXpVFq0ELPnHCn2HpDZJ1txLVOH8y3rtevwhWlBOuBRUDgUg6QH1GABRXA5ZEnXC/C0ch+gTlGT/dw0G9VVqSkqmJL1Bm+2J6go2Fp0gp4XJohqarNYfy6f5HByfuD02/h1LP74BOuXXgpppb63IRssrIrNMN9yjgkIy8qv8oIQE4AAQmQAwKfjzgS2HdJ8AKUYXiyu0W/lTO65KxQ/LyUPUFHQ9m8FfC4NENZ2+j7gM06cUOYfzbCcO9lkK7irrhjvHWyepPciTknKV1eSq7Keppvs0do7JZlH8RuYV5nujkOdBmnADL96ogc3wHYRSMwCnBkI916kcvPyN3Xnwk68h6cFAAA</values>
@@ -1077,7 +1104,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualização de status de pedido para finalizado</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
@@ -1088,10 +1115,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>3967e3db931b3a104aa43d6efaba10d4</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>25926952-1b09-41ab-b110-dba628ad369e</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVobYwdp6HNbkgIDHTaoR2y6RQjS8eJQL6MLmkzJu8+x7bsmKS0KXQTxrtzk/7z+0NPFRGczMgEeBDehFMWhVE0DoLx9SRMplESjnlEAULikZxmgJ0KWKE4xlsqbZ2oqrkCaoDHoc+sUpCb/R7rXOhS0t3KtWGGbYTkWCezp2ePlFThiQYUmVVHpXMlSZqAxNaHTtOxRrMr65gXzGaoKxZd8tZNLlxl9H2BFRyq5YSBR+DVQM4BhaRUavBIRnNOTaF2ZGaUxQQuze9zues7NiI37aIZfdXiL948Ceq+FHAz5kzow9gZ1KbTBTX0EU9mxqrer0Iw0K0nHFJqpZkPc23DfWlEkbcjhiaymy6kzfK71hHSHzD4H1ajCCjrPWvl7Vrp46Z4eehELkXeWOJWlAWjso+oMUok1tRyKgISGo8zWpYiX8elKraiGUYpmb+WGPipLF7wTi3WuU9ZrdtHV6m/xPyiSa+oEvUSP/AYHN57RO/0XFKtD6ugh/EfWytpF3MrxI0LjQVxQ0I9zJQozTe8agtO+N5z0CdX7xHGbg5ADc48gG/jErjghT6F/Wdf+BzzZyjqmP/V/Om3FTrsT3K3w9nRXVtw0F99GfTXlwS9W+Piqf+I9WD87ms6IKnBWw841wZf9982CCIenaJ+VP0c72eo6nhfCpBcvyGzgx0ylGUgbmUfAe+Ko5Ur9i/9l1EfToPmuyD2/5sH//kfN2ep9ecIAAA=</values>
@@ -1125,21 +1152,21 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualiza pedido para in Progress</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
         <generation_source/>
-        <order>11</order>
+        <order>12</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:46</sys_created_on>
         <sys_id>683a5f5393d73a104aa43d6efaba10a6</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>c8dcb61b-faf0-4276-b114-f7d084e7a49b</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVobYwdp6HNbkgIDHTaoR2y6RQjS8eJQL6MLmkzJu8+x7bsmKS0KXQTxrtzk/7z+0NPFRGczMgEeBDehFMWhVE0DoLx9SRMplESjnlEAULikZxmgJ0KWKE4xlsqbZ2oqrkCaoDHoc+sUpCb/R7rXOhS0t3KtWGGbYTkWCezp2ePlFThiQYUmVVHpXMlSZqAxNaHTtOxRrMr65gXzGaoKxZd8tZNLlxl9H2BFRyq5YSBR+DVQM4BhaRUavBIRnNOTaF2ZGaUxQQuze9zues7NiI37aIZfdXiL948Ceq+FHAz5kzow9gZ1KbTBTX0EU9mxqrer0Iw0K0nHFJqpZkPc23DfWlEkbcjhiaymy6kzfK71hHSHzD4H1ajCCjrPWvl7Vrp46Z4eehELkXeWOJWlAWjso+oMUok1tRyKgISGo8zWpYiX8elKraiGUYpmb+WGPipLF7wTi3WuU9ZrdtHV6m/xPyiSa+oEvUSP/AYHN57RO/0XFKtD6ugh/EfWytpF3MrxI0LjQVxQ0I9zJQozTe8agtO+N5z0CdX7xHGbg5ADc48gG/jErjghT6F/Wdf+BzzZyjqmP/V/Om3FTrsT3K3w9nRXVtw0F99GfTXlwS9W+Piqf+I9WD87ms6IKnBWw841wZf9982CCI+PkX9qPo53s9Q1fG+FCC5fkNmBztkKMtA3Mo+At4VRytX7F/6L6M+nAbNd0Hs/zcP/vM/XQDtgecIAAA=</values>
@@ -1149,31 +1176,31 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem de alerta para pedido crítico</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
         <generation_source/>
-        <order>9</order>
+        <order>10</order>
         <parent_ui_id>aa6fa6fb-075d-4fba-8756-10cd32621004</parent_ui_id>
         <sys_class_name>sys_hub_action_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>7167e3db931b3a104aa43d6efaba10d6</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <ui_id>ea457546-17b5-4960-a1ac-ec0dd7c4ea04</ui_id>
         <updation_source/>
-        <values>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</values>
+        <values>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</values>
     </sys_hub_action_instance_v2>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=7167e3db931b3a104aa43d6efaba10d6"/>
     <sys_hub_action_instance_v2 action="INSERT_OR_UPDATE">
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem enviada de aprovação</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
@@ -1184,10 +1211,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>b167e3db931b3a104aa43d6efaba10d0</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>b3fddda4-cd70-4ec4-8557-16513a7c66b0</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Y3W7bNhR+FU5XG2C78k/sOL3qEgQr0D80QXfRFAJFUjZXStRIKokXGNj9HmHAHm5PskOJ+rGduHLrbinmK8PnHB5+h/y+Q5Hv7zxOvRNvRI/9cRiN8MQfDoa+fzyYTsPhNPKPJ1O/T6jX8RIcM4hUjEhl/19jkVnD3d2pYtgwGvR7JFOKJWa5BD/lOhV48c6FgYXMuaDg907ef+h4KVaQ0TDlndytudpCEjhkAkIvsZoxg96W0NahmkVq/1NJshjgBbw0vnAJzpwHPT8DDwyyqPyOx24NSygDOBEWmnW8GCcUG6kWlQVqp68TURvmPDGQ8pnWknBYF43MnCEWYy7QDTdzhFEBrOfZfLea/wbghgObKmKwBsRi5QnhFBB5DXPglhTcz2t3dIYNvjAqIyZT1UpLTpguVpOyCGfCnDZtRcDr1HCZFEMMDkU5WoosTl4Vi+hVCRo7mWkAw1K7NrZYmBwKjy7m8uZtCfacJ/kqulURkmBR/YsuGFZkfs6ZsFudZHEIsR0PG6N4mBkLE0ghIKqeJ8ih2rkgkgmWb2WM05QnsyBV8prnEwL8uDcT8KcXCXkD4zWfJT1MbK092D3cOwf7WW5+hxW3hb+ENDB42fH0Qp8KrHVdPqx/8Gtm0ReLsQrHjg5ywtnBRPHUPIOprpkrdtlxEutPt/GZjmreNnLWMsuClFFOpd6U1pvKsZvCWiCqFWbZcT9Cp64N24vmWPSqcDht9XfUVsEwJ61L0JMpJF8oCRkHr5LTsb8qpwdk9DjkU4mitX5WdfJ1tAAk0UFBaFdbPvlnaORTyvDH4zAch0eTYc3DKYnoJIzGeEKGNe9uoJ+qGKuPQd5PG/Lob8rCdYrdNNECS6kJ6MEiowz9XILahtOJJJQSmlqyrhBA+uQ8X91KIYMvOn0KaiIjEWymWMCZU0GyxvpEMnNsENdIw2710KVE3FXVGNFBC5mhONMGwgx4VsS3coyNHq/uHB2c9exernwTwty/AI+2HwS4JjaeB0Zu//jrSZgbDOGil1NsuUSb2mw9bjf1tiikOtHkZlVOpBr2MJmtafSiNDp9DrfrsziwNuTZOKD8xyuVb0UJFrjgMc8JUWh4/+KgWznF/BUaEdIQxx4uQS0mLwl9erqJZBdCjz7vwDkw+ptjdH/rzZqNV3gU7pvSLWYvKf3jGqfDnUl9dCD1/4TUR9tpRVaIpLPwF0ZMg9iouESjZ7ZkTOUm0e+J2PHj5NMIS+JfVPjuw7yLAMaHz5T/nP/7JzveSqVosNo1JV00mH6V+f6QpMhi7hqeLGLClJQmhIX5mDvplXdVhDHNMlS8O6FinE5xgogtpQy1eQLgvgWfciGuPKTNQrDKX3DkBG6WgifsKfiJTICS8PXP880uI/MawZ0js6lyyKX37i6igVE40ZFU8cmURVDraNCdEIK7o4hE3WlEj7twe+8PhyHuTwfhclnWsR08TIUQJoSlRtdTBFGW5NurARMAtTS6LQf6/3IZbruYNpyWqaze3kD+57RNmTmUrsOc/2LYDvWpoXaUbhME4G5NBVRKYXjarcHmd6zceCnT9TCHqoy9VHw2Ywp13ZM+cpfFnIOD8cw8dc1YlwG141X+loy+L96Uf2iFXBusTBn50ORFhic2RYuUWCl5035b8sbfJaAis+uglZn+/uvPB3A2DL1e75Eh2m1toVOW2dd3+3NnghPAyATVdN3sAkGECaYsaKNY2xyasB/MhhLZaDj2rY4D0zxkD5BiNcsUr+GAQFUoKvOglJOPsAJgRA8xF7ZgVS5g2FEmRe/uFmdSl4Ne7xlxf9tPZN70HRt+/6P1HhV7sts+NgywJBxh97H2nXOnhW/z686dil/x1NvPQfRo+vyhrR7a6qGtHtrqWlvd7Urc4h5TvQUVt5iNa427DM9NLNauwj9dvnxRX4QnX/gSND46Go4PV+EvfgpKb+iAKpmmrrY9Pwd9+AdfzRe60iQAAA==</values>
@@ -1197,7 +1224,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Atualização do status do pedido</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
@@ -1208,10 +1235,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>bd67e3db931b3a104aa43d6efaba10d1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>b8ad4c4e-8c5e-4c5a-b922-e4d21d13819c</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+WUy2rjMBSGXyVo7TF2nIQ2uyEhUOhlaIdsOsXI0nEikC+jS9pMyLvPsS07JimdFLoJ4925Sf/5/aHnHRGcTMkIeBBehxMWhVE0DILh1ShMJlESDnlEAULikZxmgJ0KWKE4xhsqbZXY7WYKqAEehz6zSkFu9nusc6FLSbdL14YZthaSY51Mn188UlKFJxpQZLo7Kp0rSdIEJLY+tpqONZptWcW8YDZDXbFok7ducu4qg5s5VnCokhMGHoE3AzkHFJJSqcEjGc05NYXakqlRFhO4NH/I5bbrWIvcNItm9E2LP3jzKKj6UsDNmDOhC2NnUJNO59TQJzyZGas6vwrBQDeecEiplWbWzzUND6URRd6MGJrIdrqQNsvvG0dId0Dvf1iNIqCs9qyUN2ulT+vi9bEVuRB5bYlbURaMyi6ixiiRWFPJ2RGQUHuc0bIU+SouVbER9TBKyfyVxMBPZfGKd2qxyn3KKt0+ukr9BebndXpJlaiWuMNjcHjvEb3VM0m1PqyCHsa/baWkWcytENcu1BbENQnVMFOiNN/xqg044XvPQZ+MPyKMXR+A6p15AN/GJXDBC30K+4+u8Dnmz1DUMv+z/tPvK3TYn+Ru+7OD+6bgoB9/GfRXlwS9W+Piqf8X68Hww9e0R1KNt+5xrg2+7r9sEET82/iU9ePy54g/Q1dL/EKA5PodoS3ukKEuA3Ej/Ah5VxwsXbF767+M+3AS1N8F0f/fPPkvfwF0dvDM6QgAAA==</values>
@@ -1221,7 +1248,7 @@
         <action_type display_value="Send Email">c1806bf4a70323008299b39f087901cb</action_type>
         <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
         <attributes/>
-        <comment/>
+        <comment>Mensagem de reprovação</comment>
         <compiled_snapshot>c1806bf4a70323008299b39f087901cb</compiled_snapshot>
         <display_text/>
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
@@ -1232,20 +1259,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>f567e3db931b3a104aa43d6efaba10d3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:36:28</sys_updated_on>
+        <sys_updated_on>2026-03-05 03:18:47</sys_updated_on>
         <ui_id>c4e448b5-3d85-4399-abfb-dabfd161be22</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Y3W7bNhR+FUJXG2C78k/sOL3qEgQr0D8kQXfRFAJFUjZbStRIqokXGNj9HmHAHm5PskOJ+rGduHLrbinmK8PnHB5+PPy+Q5Hv7jxOvRNvRI/9cRiN8MQfDoa+fzyYTsPhNPKPJ1O/T6jX8RIcM4hUjEhl/3/CIrOGu7tTxbBhNOj3SKYUS8xyCX7KdSrw4q0LAwuZc0HB7528e9/xUqwgo2HKO7lbc7WFJHDIBIReYTVjBl2U0NahmkVq/1NJshjgBbw0vnAJzpwHPT8DDwyyqPyOx24NSygDOBEWmnW8GCcUG6kWlQXWTl8nojbMeWIg5TOtJeFQF43MnCEWYy7QDTdzhFEBrOfZfLea/wbghgObKmJQA2Kx8oRwCoi8hjlwJQX389odnWGDL43KiMlUVWnJCdNFNSmLcCbMadNWBLxODZdJMcTgUJSjpcji5FVRRK9K0NjJTAMYltra2MXC5LDw6HIuby5KsOc8yavoqiIkwaL6F10yrMj8nDNhtzrJ4hBiOx42RvEwMxYmkEJAVD1PkEO1c0EkEyzfyhinKU9mQarkJ55PCPDj3kzAn14k5A2M13yW9DCxa+3B7uHeOdjPcvNbrLhd+EtIA4OXHU8v9KnAWtfLh/oHv2YWfVGMVTh2dJATzg4miqfmGUz1ibnFLjtOYv3pNj7TUc3bRs5aZlmQMsqp1JvSelM5dlNYC0S1wiw77kfo1LVhe9Eci14VDqet/o7aKhjmpHUFejKF5AslIePgVXI69lfl9ICMHod8KlG01s+qTr6NFoAkOigI7daWT/4FGvmcMvzxOAzH4dFkWPNwSiI6CaMxnpBhzbsb6KcqxupjkPfThjz6m7JwnWI3TbTAUmoCerDIKEO/lKC24XQiCaWEppasKwSQPjnPq1spZPBVp09BTWQkgs0UCzhzKkjWWJ9IZo4N4hpp2K0eupKIu1U1RnTQQmYozrSBMAOeFfGtHGOjx6s7RwdnPbuXK9+FMPcvwKPtBwGuiY3ngZHbP/56EuYGQ7jo5RRbLtGmNluP2029LRZSnWhyc1VOpBr2MJmtafSyNDp9DrfrsziwNuTZOKD8xyuV70UJFrjgMc8JUWh4/+KgWznF/BUaEdIQxx4uQS0mLwl9erqJZBdCj77swDkw+rtjdH/rzZqNV3gU7pvSLWYvKf3TGqfDnUl9dCD1/4TUR9tpRVaIpLPwAyOmQeziDo0u2AfGDabyoVv2SsSOHyefR1gS/7LCdx/mXQQwPnym/Of83z/Z8VYqRYPVrinposH068z3hyRFFnPX8GQRE6akNCEU5mPupNfedRHGLlmGincnVIzTKU4QsUspQ22eALhvwadciGsPabMQrPIXHDmBm6XgCXsKfiIToCR8/fN8s8vIfI3gzpHZVDnk0nt3F9HAKJzoSKr4hI0jctwfDLrH2GfdUYQnXXw0nnTpqB/6U9+HcpDlslzHdvAwFUKYEJYaXU8RRFmSb68GTADU0ui2HOj/y8tw28W04bRMZfX2BvI/p22WmUPpOsz5L4btUJ8bakfpNkEA7tZUQKUUhqfdGmx+x8qNVzJdD3OoytgrxWczplDXPekjd1nMOTgYz8xT5N48y4Da8Sp/S0Y/FG/KP7ZCrg1Wpox8aPIiwxObokVKrJS8ab8teePvElCR2XXQykx///XnAzgbhl6v98gQ7VZb6JRl9vXd/tKZ4AQwMkE1XTe7QBBhgikL2ijWNocm7AezoUQ2Go59q+PANA/ZA6SoZpniNRwQqApFZR6UcvIRKgBG9BBzYQtW5QKGHWVS9O5ucSZ1Oej1nhH3t/1E5k3fseH3P1rvUbEnu+1jwwAl4UiVX2vOnRa+za87dyp+w1NvPwfRo+nzh7Z6aKuHtnpoq2ttdbcrcYt7TPUWVNxiNq417jI8N7FYuwr/fPXyRX0RnnzlS9D46Gg4PlyFv/opKL2hA6pkmrq17fk56P0/E7fK7NIkAAA=</values>
     </sys_hub_action_instance_v2>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f567e3db931b3a104aa43d6efaba10d3"/>
     <sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=95192b6e939fb2104aa43d6efaba101e"/>
-    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=95192b6e939fb2104aa43d6efaba101e^sys_idNOT IN7d67e3db931b3a104aa43d6efaba10dc,e03a5f5393d73a104aa43d6efaba10a8,f567e3db931b3a104aa43d6efaba10db"/>
+    <sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=95192b6e939fb2104aa43d6efaba101e^sys_idNOT IN1268c5779393fa104aa43d6efaba10e7,7d67e3db931b3a104aa43d6efaba10dc,e03a5f5393d73a104aa43d6efaba10a8,f567e3db931b3a104aa43d6efaba10db"/>
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
-        <block display_value="">4c6763db931b3a104aa43d6efaba10ba</block>
+        <block display_value="">a46845779393fa104aa43d6efaba10ab</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1253,18 +1280,45 @@
         <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
         <flow_variables_assigned/>
         <generation_source/>
-        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <logic_definition display_value="End">d176605ea76103004f27b0d2187901c7</logic_definition>
         <order>8</order>
+        <outputs_assigned/>
+        <parent_ui_id>666e71ae-af62-4a7a-9ab5-b7287fcccac7</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-05 03:18:47</sys_created_on>
+        <sys_id>1268c5779393fa104aa43d6efaba10e7</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
+        <ui_id>7c03cdb7-82fe-411d-b7b5-aeacf2de0261</ui_id>
+        <updation_source/>
+        <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
+        <workflow_reference/>
+    </sys_hub_flow_logic_instance_v2>
+    <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
+        <attributes/>
+        <block display_value="">4c6763db931b3a104aa43d6efaba10ba</block>
+        <comment>Se o pedido for indicado como crítico</comment>
+        <connected_to/>
+        <decision_table/>
+        <display_text/>
+        <flow display_value="Solicitação de brinquedos">95192b6e939fb2104aa43d6efaba101e</flow>
+        <flow_variables_assigned/>
+        <generation_source/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>9</order>
         <outputs_assigned/>
         <parent_ui_id/>
         <sys_class_name>sys_hub_flow_logic_instance_v2</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>7d67e3db931b3a104aa43d6efaba10dc</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <ui_id>aa6fa6fb-075d-4fba-8756-10cd32621004</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1VS27bMBS8isG1IOgTG413gYMABdIGqINs2kB4IimbKEWqJGVHFXygLnqKXKyP+thG4qIO2mV35vB9ZkYcuCW6dlXt7L2+slasFJl/fgyIUB7D3y1RUHIyJ1QrJpzQKuuAgGxA1v5iySeVEdoIBoxPnn9MqHn+6QQFrGHCVhKahzNK6VpIZviwvwKDWxw3ZN6+uBIMJxURFPEljWmazNIkipJ3F3E+S/M4YSlwSHGghJxLLF2MxCe3HRL8VpFrKo9bZ4RaDefbYcpyBLVhnlUcBYQ/Oa4YRz4FSMsDUoJi4LRp9ojhwO6UPABroRyOI774yYrvuDCZTn1hwVEi5f3l/pgNFvZwcQ0OkEpNXW2GUrrWgnLbm8N4AbV0i2OsL7irvNS+xUEux24t61J97B0h+wHjF0OktkiCV16ppz7oKJZrvf00srwRqnNluJSagtyfwKF3ee08n5ZwyUsclJVQVehoVhm9EV0zcinDlcRDWEi9xaX+PYZAPfEQjYXwBvHrDn4AI7yKDzgGm3uaOVhBs+7t4ji0iZNdQGxjFxKsPYhEd7NvtafYSx7EZb0/voUaUbkr3Lzhg45d8DoKRylo2wV+a8dZFoe0NuiKC/u37prd7ksdRSmLXyfi3La3peMSpsU0jqan03ExO5WOE7l4YySSP0TCf48zExFF0f9I/HUkhM36hzxo65b/w0Q8+uff79x7TYVFavceez/+h/iLBh+XoMfQVpuvXtQB2/0Czwv1Lo0GAAA=</values>
@@ -1273,7 +1327,7 @@
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">1a2adb5393d73a104aa43d6efaba1031</block>
-        <comment/>
+        <comment>Condição que aprova o pedido</comment>
         <connected_to/>
         <decision_table/>
         <display_text/>
@@ -1288,10 +1342,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 00:38:46</sys_created_on>
         <sys_id>e03a5f5393d73a104aa43d6efaba10a8</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <ui_id>6a877ef7-b3c7-44ad-b3db-882e78a44914</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/+1Vy27bMBD8lYJnWdDTr5vhIECBtAGaIJc2ENYUZROlSFWk7LiC/71LUbKN2EUbNMfezFnucma0A7dENaZqjH5UC635WpL512ePcGkx/N0SCSUjc0KVzLnhSmYd4JEtiMYWFlWttpArhHKuKwH7p8sK3XCR16yfXkGNMwyrybx9VeI5NhYBFOGMhjSOxnEUBNE0CVfjeBVGeQwMYhwoYMUEXl0OtD7cdYj3W75mX1lcm5rLdX++66c8DKCqc8sqDDzCXgyTOUM+BQjNPFKCzMGoen9Eagb5vRQnYMOlwXHEXn7R/Cc+GKWpvVgwlEiZKx6PWe+Yg4sbMIBUGmqaur9KN4pTpp05OSugEWZ5jrkL95WV6loMrMTQrURTys/OEXIcMHwgRBqNJFhllVrqvY7iYaN2XwaWt1x2rvRFoSiI4wkMerdqjOXTEiZYiYOyEqoKHc3sBvCuGbmU/lrgwS+E2uGjdtt8oJa4j8aCf4v4TQc/Qc2tik84BpsdzRVoTrNuM3Ec2sTIwSN6r5cCtD6JRHezH42l6CT34jLnj22hNa/MAl/esl7Hwbtc9LMdb9sJHUMMQTKaBLNolBRhPJqyIhlBAlGRxGySzqY+srUbLzJtwLDD4VsTBHHuUFyki4C819i3pWsGaZGGQXo9Xcn4Wrqu5OqNkYr+ECn7Pf8yUUEQ/I/UP0eK68wFodfWPf6OiXq28XFvHr2mXCO1R4t9HP5hbGGPy8XpObRT9Xcr6oQdfgGWEVNjqwYAAA==</values>
@@ -1300,7 +1354,7 @@
     <sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE">
         <attributes/>
         <block display_value="">cc6763db931b3a104aa43d6efaba10b6</block>
-        <comment/>
+        <comment>Condição de rejeição de pedido</comment>
         <connected_to>6a877ef7-b3c7-44ad-b3db-882e78a44914</connected_to>
         <decision_table/>
         <display_text/>
@@ -1315,10 +1369,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-04 01:36:28</sys_created_on>
         <sys_id>f567e3db931b3a104aa43d6efaba10db</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_scope display_value="Toy Store">e531c796939b32104aa43d6efaba10ee</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:40</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:25</sys_updated_on>
         <ui_id>666e71ae-af62-4a7a-9ab5-b7287fcccac7</ui_id>
         <updation_source/>
         <values>H4sIAAAAAAAA/6tWyi8tKSgtKQ7JdywuzkzPU7KKjtVRyswDiUHYZYlFmYlJOalQbkpqcmZxZn5eCEjME0ldSmVeYm5mMrJQeX5RdlpOfjlCrBYAD1ouqHEAAAA=</values>
@@ -1554,17 +1608,17 @@
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"29192b6e939fb2104aa43d6efaba10c6","name":"plan","plan_signature":null}}</plan>
         <plan_id>61f1ebee935fb2104aa43d6efaba1060</plan_id>
-        <snapshot>861ce717935b3a104aa43d6efaba1046</snapshot>
+        <snapshot>3499cd0893237e104aa43d6efaba1020</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-03-01 17:48:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>29192b6e939fb2104aa43d6efaba10c6</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-03-04 01:56:41</sys_updated_on>
+        <sys_updated_on>2026-03-05 22:00:26</sys_updated_on>
         <trigger display_value="">29192b6e939fb2104aa43d6efaba10b6</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=61f1ebee935fb2104aa43d6efaba1060"/>
