@@ -43,6 +43,9 @@ Durante o desenvolvimento deste projeto foi possível aprofundar conhecimentos e
 
 ## 👉🏻 Clique aqui para ver o resultado completo do [Projeto](https://youtu.be/gQo4fQ6xB-o) 
 
+![WhatsApp Image 2026-03-10 at 9 52 02 PM](https://github.com/user-attachments/assets/916515c1-5d1b-4175-bc66-7072a229cb97)
+
+
 👩‍💻 Desenvolvido por
 
 Kelly Louzada
